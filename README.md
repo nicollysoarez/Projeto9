@@ -19,11 +19,13 @@
   Logo by <a href="http://www.nyphotographic.com/">Grupo - 9</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/"></a>
 </p>
 
-Nosso projeto iniciou com a necessidade de ajudar uma instituição localizada na Bolívia. A instituição Protege é um lugar onde acolhe jovens e crianças de 0 a 18 anos, que se encontram em estado vulnerável, morando nas ruas. Para ajudar essa instutuição, decidimos criar um site para divulgar o trabalho deles, informar como a população mundial pode ajuda-los e realizar doações financeiras.
+Nosso projeto nasceu da necessidade de apoiar uma instituição localizada na Bolívia chamada Protege. Esta instituição acolhe crianças e jovens de 0 a 18 anos que vivem em situação de vulnerabilidade, muitas vezes nas ruas, e oferece a eles um ambiente seguro e acolhedor. Com o objetivo de contribuir para o trabalho realizado por essa instituição, decidimos desenvolver um site que divulga suas atividades, informa como pessoas ao redor do mundo podem ajudar e possibilita doações financeiras.
 <br><br>
-Com base nas ODS 1- erradicação da pobreza, 2- fome zero 3- saúde e bem estar e 4- educação de qualidade, criamos um site onde é possível realizar doações financeiras, entrar em contato com a Instituição para levar doações como roupas, sapatos, brinquedos e aparelhos eletrônicos, e disponibilizar do próprio tempo para ajudar essas crianças e jovens, sendo voluntário na instituição. A longo prazo essa Instituição vai conseguir viver de forma autossustentável, cuidando de animais como galinhas e vacas, para consumo próprio de suas produções como leite e ovos e comercializando para gerar renda. Mas para alcançar esse objetivo de autossustentabilidade, é necessário que divulguemos para que mais pessoas possam ajudar. 
+Baseado nos Objetivos de Desenvolvimento Sustentável (ODS), em especial ODS 1 - Erradicação da Pobreza, ODS 2 - Fome Zero, ODS 3 - Saúde e Bem-Estar, e ODS 4 - Educação de Qualidade, criamos uma plataforma onde é possível realizar doações financeiras, entrar em contato para levar contribuições em forma de roupas, calçados, brinquedos e equipamentos eletrônicos, e ainda oferecer tempo e trabalho voluntário para apoiar as crianças e jovens atendidos pela instituição.
 <br><br>
-Nosso projeto ajuda jovens e crianças a ter um futuro melhor, com condições de viver com dignidade.
+Com essa iniciativa, esperamos que, a longo prazo, a instituição alcance a autossustentabilidade, cuidando de animais como galinhas e vacas para consumo próprio de leite e ovos, além de gerar renda através da comercialização desses produtos. Porém, para alcançar essa meta, é fundamental ampliar a visibilidade e atrair mais apoio.
+<br><br>
+Nosso projeto visa dar a essas crianças e jovens a chance de um futuro digno, com condições de vida que respeitem e promovam sua dignidade e bem-estar.
 <br><br>
 
 ## Protótipo navegável no Figma
